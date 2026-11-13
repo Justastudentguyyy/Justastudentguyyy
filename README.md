@@ -62,7 +62,7 @@ An AI-powered campus information assistant that answers questions using a refere
 ```bash
 [STATUS] Continuously learning and improving.
 [FOCUS] Software development and web development.
-[GOAL] Build useful projects and become a stronger developer.
+[GOAL] Build useful projects and become a better developer.
 ```
 
 ---
